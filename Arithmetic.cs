@@ -12,7 +12,7 @@ namespace MP1
     {
         /// <summary>
         /// Use this method as is.
-        /// It is called by Main and is used to get an expression from console.
+        /// It is called by Main and is used to get an expression from consol
         /// The method calls the EvaluateExpression and OutputExpression methods. 
         /// </summary>
         /// <returns>
